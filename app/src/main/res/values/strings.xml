@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Laboratoire1FC</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis, nunc et aliquet sagittis, orci ligula vestibulum urna, a tincidunt libero ligula nec nulla. Proin id varius odio. Phasellus nec tincidunt ex. Mauris facilisis metus id vehicula volutpat. Integer accumsan lacus at quam aliquam, non dignissim purus lacinia. Aenean consequat lorem ut odio interdum varius. Donec fringilla lorem nec risus vehicula, at condimentum erat vehicula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis, nunc et aliquet sagittis, orci ligula vestibulum urna, a tincidunt libero ligula nec nulla. Proin id varius odio. Phasellus nec tincidunt ex. Mauris facilisis metus id vehicula volutpat. Integer accumsan lacus at quam aliquam, non dignissim purus lacinia. Aenean consequat lorem ut odio interdum varius. Donec fringilla lorem nec risus vehicula, at condimentum erat vehicula.</string>
+
+
+    <!-- Options pour les spinners de destination -->
+    <string-array name="ville_array">
+        <item>Berlin</item>
+        <item>Glasgow</item>
+        <item>Helsinki</item>
+        <item>Paris</item>
+        <item>Oslo</item>
+    </string-array>
+
+<!-- Options pour les spinners de classe -->
+    <string-array name="classe_array">
+        <item>Économie</item>
+        <item>Affaires</item>
+        <item>Première</item>
+    </string-array>
+
+</resources>
